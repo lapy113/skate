@@ -1,0 +1,76 @@
+#jumbotron-a{
+    background-color: #000000;
+    color: aliceblue;
+    height: 90px;
+    padding: 0%;
+    margin: 0%;
+}
+#jumbotron-b{
+    background-color: #575757;
+    color: rgb(255, 255, 255);
+    height: 60px;
+    padding: 0%;
+    margin: 0%;
+}
+#jumbotron-c{
+    background-color: #f1ebeb;
+    color: rgb(4, 5, 5);
+    height: 60px;
+    padding: 0%;
+    margin: 0%;
+    
+}
+
+#hero-a{
+    font-family: 'Segoe UI';
+    font-size: 60px;
+    margin: 0px;
+    
+}
+#hero-b{
+    font-family: 'Segoe UI';
+    font-size: 40px;
+    margin: 0px;
+    
+}
+#hero-c{
+    font-family: 'Segoe UI';
+    font-size: 30px;
+    margin: 0px;
+}
+
+#shopButton{
+    border: solid 2px white;
+}
+.nav-item{
+    font-size: x-large;
+    margin-right: 20px;
+}
+
+.dropdown:hover>.dropdown-menu{
+    display: block;
+}
+
+.dropdown-toggle::after {
+    content: none;
+}
+
+footer{
+    background-color: #000000;
+    color: #f1ebeb;
+}
+.dropdown-menu {
+    width: 500px !important;
+    
+}
+
+video {
+    width: 100%;
+    margin-top: -5%;
+    padding: 0px;
+    opacity: 80%;
+}
+
+.tab-content{
+    border: solid 2px rgb(221, 219, 219);
+}
